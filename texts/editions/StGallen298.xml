@@ -1620,7 +1620,11 @@
                         <cell><num>X</num>.</cell>
                         <cell role="spatium"/>
                     </row>
-                    <row role="header" n="header_3">
+                </table>
+                    </div>
+            <div n="15">
+                <table n="t1">
+                    <row role="header" n="header_1">
                         <cell role="filum" n="Medes">Ȼ<rs type="ethnic"><choice>
                             <abbr>Medo</abbr>
                             <expan>Medorum</expan>
@@ -1664,7 +1668,7 @@
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell role="spatium"/>
+                        <cell><rs type="ethnic"><choice><abbr>Athen</abbr><expan>Atheniensium</expan></choice>.</rs>. <choice><abbr>XVus</abbr><expan>Unknown</expan></choice>. <persName><choice><sic>Aesemedes</sic><corr>Aesemides</corr></choice></persName> <choice><abbr>an</abbr><expan>annis</expan></choice>. X.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="9_2">
