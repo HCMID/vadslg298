@@ -1668,7 +1668,7 @@
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell><rs type="ethnic"><choice>
+                        <cell>Ȼ<rs type="ethnic"><choice>
                                     <abbr>Athen</abbr>
                                     <expan>Atheniensium</expan>
                                 </choice>.</rs>. <choice>
@@ -1702,7 +1702,7 @@
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell><rs type="ethnic"><choice>
+                        <cell>Ȼ<rs type="ethnic"><choice>
                                     <abbr>Lyd</abbr>
                                     <expan>Lydorum</expan>
                                 </choice></rs>. <choice>
@@ -1725,7 +1725,7 @@
                         <cell><num>XVI</num>.</cell>
                         <cell role="spatium"/>
                         <cell><num>I</num>.</cell>
-                        <cell><persName>Midas</persName>
+                        <cell>Ȼ<persName>Midas</persName>
                             <choice>
                                 <abbr>regau</abbr>
                                 <expan>regnauit</expan>
@@ -1762,7 +1762,7 @@
                     <row role="regnal" n="9_3_r1">
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell><rs type="ethnic"><choice>
+                        <cell>Ȼ<rs type="ethnic"><choice>
                                     <abbr>hebr</abbr>
                                     <expan>hebre</expan>
                                 </choice></rs>
@@ -1829,7 +1829,7 @@
                         <cell><num>II</num>.</cell>
                         <cell role="spatium"/>
                         <cell><num>III</num>.</cell>
-                        <cell><placeName>Catina</placeName>
+                        <cell>Ȼ<placeName>Catina</placeName>
                             <choice>
                                 <abbr>i</abbr>
                                 <expan>in</expan>
@@ -1864,7 +1864,7 @@
                         <cell><num>IIII</num>.</cell>
                         <cell role="spatium"/>
                         <cell><num>V</num>.</cell>
-                        <cell><placeName>mesanna</placeName> a <rs type="ethnic"><choice>
+                        <cell>Ȼ<placeName>Mesanna</placeName> a <rs type="ethnic"><choice>
                                     <abbr>lacedemoiis</abbr>
                                     <expan>lacedemoniis</expan>
                                 </choice></rs>
@@ -1917,7 +1917,7 @@
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell><rs type="ethnic"><choice>
+                        <cell>Ȼ<rs type="ethnic"><choice>
                                     <abbr>Egyptio</abbr>
                                     <expan>Egyptiorum</expan>
                                 </choice></rs>. <choice>
@@ -1949,7 +1949,7 @@
                     </row>
                     <row role="regnal" n="11_1_r1">
                         <cell role="spatium"/>
-                        <cell><rs type="ethnic"><choice>
+                        <cell>Ȼ<rs type="ethnic"><choice>
                                     <abbr>Maced</abbr>
                                     <expan>Macedonum</expan>
                                 </choice></rs>. <choice>
@@ -2008,7 +2008,7 @@
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell><choice>
+                        <cell>Ȼ<choice>
                                 <abbr>Postque</abbr>
                                 <expan>Postquem</expan>
                             </choice>. <choice>
@@ -2058,7 +2058,7 @@
                         <cell role="spatium"/>
                         <cell><num>V</num>.</cell>
                         <cell><num>XXI</num>.</cell>
-                        <cell><persName>Tarpeia</persName> clipeis <rs type="ethnic"><choice>
+                        <cell>Ȼ<persName>Tarpeia</persName> clipeis <rs type="ethnic"><choice>
                                     <abbr>Sabino</abbr>
                                     <expan>Sabinorum</expan>
                                 </choice></rs> obruta <choice>
@@ -2126,12 +2126,12 @@
                                 <expan>Olympias</expan>
                             </choice>. <choice>
                                 <abbr><num>XIII</num>a</abbr>
-                                <expan/>
+                                <expan>unknown</expan>
                             </choice>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell role="regnal"><rs type="ethnic"><choice>
+                        <cell role="regnal">Ȼ<rs type="ethnic"><choice>
                                     <abbr>Lyd</abbr>
                                     <expan>Lydorum</expan>
                                 </choice></rs>. <choice>
@@ -2158,7 +2158,7 @@
                         <cell role="spatium"/>
                         <cell><num>VIIII</num>.</cell>
                         <cell><num>XXV</num>.</cell>
-                        <cell><persName><choice>
+                        <cell>Ȼ<persName><choice>
                                     <abbr>Romul</abbr>
                                     <expan>Romulus</expan>
                                 </choice></persName>
@@ -2242,7 +2242,7 @@
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell><placeName>Egyptus</placeName>
+                        <cell>Ȼ<placeName>Egyptus</placeName>
                             <persName>Secucus</persName>
                             <choice>
                                 <abbr>anis</abbr>
@@ -2276,7 +2276,7 @@
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell><choice>
+                        <cell>Ȼ<choice>
                                 <abbr>Postque</abbr>
                                 <expan>Postquem</expan>
                             </choice>. <choice>
@@ -2292,7 +2292,7 @@
                         <cell><num>XVIIII</num>.</cell>
                         <cell role="spatium"/>
                         <cell><num>VI</num>.</cell>
-                        <cell><persName><choice>
+                        <cell>Ȼ<persName><choice>
                                     <abbr>Sabaco</abbr>
                                     <expan>Sabacon</expan>
                                 </choice></persName>
@@ -2335,7 +2335,7 @@
                         <cell role="spatium"/>
                     </row>
                     <row role="regnal" n="14_3_r1">
-                        <cell><rs type="ethnic"><choice>
+                        <cell>Ȼ<rs type="ethnic"><choice>
                                     <abbr>Medo</abbr>
                                     <expan>Medorum</expan>
                                 </choice></rs>. <choice>
@@ -2363,7 +2363,7 @@
                         <cell><num>XXI</num>.</cell>
                         <cell role="spatium"/>
                         <cell><num>VIII</num>.</cell>
-                        <cell>Mare <choice>
+                        <cell>ȻMare <choice>
                                 <abbr>optinuert</abbr>
                                 <expan>optinuerunt</expan>
                             </choice>
@@ -2402,7 +2402,7 @@
                         <cell><num>XXII</num>.</cell>
                         <cell role="spatium"/>
                         <cell><num>VIIII</num>.</cell>
-                        <cell><choice>
+                        <cell>Ȼ<choice>
                                 <abbr>Bellu</abbr>
                                 <expan>Bellum</expan>
                             </choice>
