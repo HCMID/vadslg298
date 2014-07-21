@@ -5592,7 +5592,7 @@
                                     <abbr>Medo</abbr>
                                     <expan>Medorum</expan>
                                 </choice></rs>.</cell>
-                        <cell role="filum" n="Macedonians">Ȼ<rs type="ethnic"> Macedonum
+                        <cell role="filum" n="Macedonians">Ȼ<rs type="ethnic"><choice><abbr>Macedonu</abbr><expan> Macedonum</expan></choice>
                             </rs>.</cell>
                         <cell role="filum" n="Judean Hebrews">Ȼ<rs type="ethnic"><choice>
                                     <abbr>hebreo</abbr>
@@ -5608,7 +5608,7 @@
                         <cell role="filum" n="Romans">Ȼ<rs type="ethnic"><choice>
                                     <abbr>Romano</abbr>
                                     <expan>Romanorum</expan>
-                                </choice></rs></cell>
+                                </choice></rs>.</cell>
                         <cell role="spatium"/>
                         <cell role="filum" n="Egyptians">Ȼ<rs type="ethnic"><choice>
                                     <abbr>Egyptio</abbr>
@@ -5618,105 +5618,9 @@
                         <cell role="annimundi">Anni mundi.</cell>
                     </row>
                     <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                    <row>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                    <row>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                    <row>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
                         <cell/>
                         <cell/>
                         <cell/>
@@ -5772,114 +5676,6 @@
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                    <row>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                    <row>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                    <row>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
                     </row>
                     <row>
                         <cell/>
@@ -5990,6 +5786,42 @@
                         <cell/>
                     </row>
                     <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
@@ -6050,30 +5882,6 @@
                         <cell/>
                     </row>
                     <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                    <row>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
@@ -6108,6 +5916,102 @@
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
                     </row>
                     <row>
                         <cell/>
