@@ -6321,7 +6321,7 @@
                                 </choice></rs>
                             <choice>
                                 <abbr>fcam</abbr>
-                                <expan>unknown</expan>
+                                <expan>factam</expan>
                             </choice>
                             <choice>
                                 <abbr>ee</abbr>
@@ -6335,13 +6335,13 @@
                                 <expan>apud</expan>
                             </choice>
                             <rs type="ethnic">egyptios</rs>
-                            <persName>unknownafre</persName>. <choice>
+                            <persName>vafre</persName>. <choice>
                                 <abbr>Apd</abbr>
                                 <expan>Apud</expan>
                             </choice>
                             <placeName>Athenas</placeName>
                             <persName>phenippe</persName>. et supputari. <num>lxx</num>. annos
-                            desolationis <choice>
+                            desolationis templi <choice>
                                 <abbr>usq</abbr>
                                 <expan>usque</expan>
                             </choice> in <choice>
@@ -6372,16 +6372,16 @@
                                 <choice>
                                     <abbr>quoq</abbr>
                                     <expan>quoque</expan>
-                                </choice> propheta meminit.</p>Ȼ<p>his <choice>
+                                </choice> propheta meminit.</p><p>Ȼhis <choice>
                                     <abbr>tprib</abbr>
                                     <expan>temporibus</expan>
                                 </choice>
                                 <choice>
                                     <abbr>certatib</abbr>
                                     <expan>certantibus</expan>
-                                </choice> in agone Tragus. <num>i</num>. yrcus in <choice>
+                                </choice> in agone Tragus. <choice><abbr>i</abbr><expan>id est</expan></choice>. yrcus in <choice>
                                     <abbr>pmio</abbr>
-                                    <expan>primio</expan>
+                                    <expan>praemio</expan>
                                 </choice>
                                 <choice>
                                     <abbr>dabat</abbr>
@@ -6401,7 +6401,7 @@
                                 destructa est.</p></cell>
                     </row>
                     <row role="regnal" n="47_2_r2">
-                        <cell>Ȼ<rs type="ethnic">hebreorum</rs> captiuitas exterminium templi quod
+                        <cell>Ȼ<rs type="ethnic">hebreorum</rs> captiuitas exterminium templi quod fuit
                             in <placeName>hierusalem</placeName> annis. <num>lxx</num>.</cell>
                         <cell role="spatium"/>
                     </row>
