@@ -8983,7 +8983,6 @@
                 </table>
             </div>
             <div n="20">
-<<<<<<< HEAD
                 <table n="t1">
                     <row role="header" n="header_1">
                         <cell role="filum" n="Persians"><unclear>Ȼ</unclear><rs type="ethnic">Persarum</rs>.</cell>
@@ -9213,9 +9212,6 @@
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
-                </table>
-=======
-              <table n="t1">
                   <row role="header" n="header_2">
                       <cell role="filum" n="Persians">Ȼ<rs type="ethnic">Persarum</rs>.</cell>
                       <cell role="filum" n="Roman Consuls">ȻConsulum.</cell>
@@ -9440,7 +9436,6 @@
                       <cell role="spatium"/>
                   </row>
               </table>
->>>>>>> f9fef7abe37e6dfaf7da17f6eea9919280ee10ed
             </div>
         </body>
     </text>
