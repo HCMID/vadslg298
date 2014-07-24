@@ -10676,25 +10676,26 @@
                         <cell role="regnal">Post <choice><abbr>que</abbr><expan>quem</expan></choice>. <choice><abbr><num>iii</num>us</abbr><expan>unknown</expan></choice>. <persName>Acoris</persName> <choice><abbr>anis</abbr><expan>annis</expan></choice>. <num>xii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
-                    <row>
+                    <row n="94_4_r1">
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell role="spatium"/>
+                        <cell>i.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row role="olympiad" n="95">
                         <cell role="spatium"/>
-                        <cell role="spatium"/>
+                        <cell><p><persName>Cyri</persName> regis ascensus de <choice><abbr>qo</abbr><expan>quo</expan></choice> scribit <persName>xenophon</persName></p>
+                            <p><choice><abbr>Tyrani</abbr><expan>Tyranni</expan></choice> <placeName>athenis</placeName> oppressi.</p></cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="95_1">
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
+                        <cell>vi.</cell>
+                        <cell><rs type="ethnic"><choice><abbr>Athenieses</abbr><expan>Athenienses</expan></choice></rs>. <num>xxiiii</num>. litteris uti <choice><abbr>ceput</abbr><expan>ceperunt</expan></choice>. <choice><abbr>cu</abbr><expan>cum</expan></choice> <choice><abbr>atea</abbr><expan>antea</expan></choice>. <num>xvi</num>. <choice><abbr>tm</abbr><expan>tam</expan></choice> <choice><abbr>littas</abbr><expan>litteras</expan></choice> <choice><abbr>haberet</abbr><expan>haberent</expan></choice>.</cell>
+                        <cell>ii.</cell>
+                        <cell>ii.</cell>
                         <cell role="spatium"/>
                     </row>
                 </table>
