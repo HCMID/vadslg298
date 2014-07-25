@@ -11980,25 +11980,25 @@
                     </row>
                     <row n="112_2">
                         <cell><num>v</num>.</cell>
-                       <cell><placeName>ALexandria</placeName> in <placeName>egypto</placeName> <choice><abbr>codita</abbr><expan>condita</expan></choice>. <choice><abbr>Qo</abbr><expan>Quo</expan></choice> <choice><abbr>tpr</abbr><expan>tempore</expan></choice> etiam <rs type="ethnic">Latini</rs> a <rs type="ethnic">romanis</rs> <choice><abbr>pdomiti</abbr><expan>perdomiti</expan></choice> sunt.</cell>
+                        <cell role="spatium"/>
                         <cell><num>vi</num>.</cell>
                         <cell><choice><abbr>iiii</abbr><expan><num>iiii</num> milia</expan></choice>. <num>dccclxx</num>.</cell>
                     </row>
                     <row n="112_3">
                         <cell><num>vi</num>.</cell>
-                        <cell/>
+                        <cell><placeName>ALexandria</placeName> in <placeName>egypto</placeName> <choice><abbr>codita</abbr><expan>condita</expan></choice>. <choice><abbr>Qo</abbr><expan>Quo</expan></choice> <choice><abbr>tpr</abbr><expan>tempore</expan></choice> etiam <rs type="ethnic">Latini</rs> a <rs type="ethnic">romanis</rs> <choice><abbr>pdomiti</abbr><expan>perdomiti</expan></choice> sunt.</cell>
                         <cell><num>vii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row role="regnal" n="112_3_r1">
-                        <cell role="spatium"/>
+                        <cell><persName><choice><abbr>Alexader</abbr><expan>Alexander</expan></choice></persName> <choice><abbr>regnu</abbr><expan>regnum</expan></choice> <placeName>asiae</placeName> <choice><abbr>ano</abbr><expan>anno</expan></choice> regni sui. <choice><abbr><num>viii</num>o</abbr><expan>unknown</expan></choice>. occupat et tenet <choice><abbr>oia</abbr><expan>omnia</expan></choice> <choice><abbr>an</abbr><expan>annis</expan></choice>. <num>xii</num>. <choice><abbr>Regnu</abbr><expan>Regnum</expan></choice> <rs type="ethnic"><choice><abbr>persa</abbr><expan>persarum</expan></choice></rs> <choice><abbr>destrctu</abbr><expan>destructum</expan></choice> <choice><abbr>e</abbr><expan>est</expan></choice>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="112_4">
                         <cell>viii.</cell>
-                        <cell/>
+                        <cell><persName>Alexander</persName> <rs type="ethnic">hyrcanos</rs> et <rs type="ethnic">medos</rs> capit: <choice><abbr>reuertesq</abbr><expan>reuertensque</expan></choice> in <placeName><choice><abbr>hamone</abbr><expan>hammone</expan></choice></placeName> <choice><abbr>codidit</abbr><expan>condidit</expan></choice> <placeName><choice><abbr>parethoniu</abbr><expan>parethonium</expan></choice></placeName>.</cell>
                         <cell>viii.</cell>
                         <cell role="spatium"/>
                     </row>
@@ -12010,49 +12010,49 @@
                     </row>
                     <row n="113_1">
                         <cell><num><choice><sic>viii</sic><corr>viiii</corr></choice></num>.</cell>
-                        <cell/>
+                        <cell><p><persName>Alexander</persName> <placeName>aornim petra</placeName> capit et <placeName>indum</placeName> <choice><abbr>anne</abbr><expan>annem</expan></choice> <choice><abbr>transgredit</abbr><expan>transgreditur</expan></choice></p><p>Bellum <persName><choice><abbr>Alexadri</abbr><expan>Alexandri</expan></choice></persName> in <placeName>india</placeName> aduersum <persName>porum</persName> et <persName>Taxilem</persName>.</p></cell>
                         <cell><num>viiii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="113_2">
                         <cell><num>x</num>.</cell>
-                        <cell/>
+                        <cell role="spatium"/>
                         <cell><num>x</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="113_3">
                         <cell><num>xi</num>.</cell>
-                        <cell/>
+                        <cell role="spatium"/>
                         <cell><num>xi</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="113_4">
                         <cell><num>xii</num>.</cell>
-                        <cell/>
+                        <cell><p><persName>Arpalus</persName> fugit in <placeName>asiam</placeName><unclear>.</unclear></p><p><rs type="ethnic">Romani</rs> <rs type="ethnic">samnites</rs> subigunt et colonias ducunt.</p></cell>
                         <cell><num>xii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row role="olympiad" n="114">
                         <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. <choice><abbr><num>cxiiii</num>a</abbr><expan>unknown</expan></choice>.</cell>
-                        <cell role="spatium"/>
+                        <cell><persName><choice><abbr>Alex</abbr><expan>Alexander</expan></choice></persName>. <choice><abbr><num>xxxii</num>o</abbr><expan>unknown</expan></choice>. aetatis suae <choice><abbr>ano</abbr><expan>anno</expan></choice> <choice><abbr>morit</abbr><expan>moritur</expan></choice> <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>babilone</placeName>. Post <choice><abbr>que</abbr><expan>quem</expan></choice> <w>translato<del>s</del></w> <choice><abbr>i</abbr><expan>in</expan></choice> <choice><abbr>mltos</abbr><expan>multos</expan></choice> <choice><abbr>impio</abbr><expan>imperio</expan></choice>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row role="regnal" n="114_r1">
+                        <cell><rs type="ethnic">Egyptiorum</rs>. <choice><abbr><num>i</num>us</abbr><expan>unknown</expan></choice>. regnauit <persName>Ptolomeus</persName> <persName>Iagi</persName> filius annis. <num>xl</num>.</cell>
                         <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="spatium"/>
+                        <cell><rs type="ethnic"><choice><abbr>Macd</abbr><expan>Macedonum</expan></choice></rs>. <choice><abbr><num>xxiiii</num>us</abbr><expan>unknown</expan></choice>. <choice><abbr></abbr><expan></expan></choice> <persName><choice><abbr>philipp</abbr><expan>philippus</expan></choice></persName> <choice><abbr>q</abbr><expan>qui</expan></choice> et <persName><choice><abbr>aride</abbr><expan>arideus</expan></choice></persName> <choice><abbr>fr</abbr><expan>frater</expan></choice> <persName><choice><abbr>alexadri</abbr><expan>alexandri</expan></choice></persName> <choice><abbr>an</abbr><expan>annis</expan></choice>. <num>vii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="114_r2">
                         <cell role="spatium"/>
-                        <cell role="spatium"/>
+                        <cell><persName>Appius claudius cecus</persName> <placeName>romae</placeName> clari habetur: qui <placeName>aquam <rs type="person">claudiam</rs></placeName> induxit. et <placeName>uiam <rs type="person">appiam</rs></placeName> strauit.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="114_1">
                         <cell><num>i</num>.</cell>
-                        <cell/>
+                        <cell><placeName>Lydiam</placeName> et <placeName>Thraciam</placeName> et <placeName>hellespontum</placeName> <persName>Lysimacus</persName> tenuit.</cell>
                         <cell><num>i</num>.</cell>
                         <cell role="spatium"/>
                     </row>
