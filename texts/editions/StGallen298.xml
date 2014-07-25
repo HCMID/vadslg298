@@ -6455,7 +6455,7 @@
                                     <expan> Macedonum</expan>
                                 </choice>
                             </rs>.</cell>
-                        <cell role="filum" n="Judean Captivity">Ȼ<rs type="ethnic"><choice>
+                        <cell role="filum" n="Hebrew Captivity">Ȼ<rs type="ethnic"><choice>
                                     <abbr>Iudeo</abbr>
                                     <expan>Iudeorum</expan>
                                 </choice></rs> captiuitas..</cell>
@@ -7267,7 +7267,7 @@
                         <cell role="filum" n="Macedonians">Ȼ<rs type="ethnic">Macedonum
                             </rs>.</cell>
                         <cell role="spatium"/>
-                        <cell role="filum" n="Judean Captivity">Ȼ<rs type="ethnic">Iudaicae</rs>
+                        <cell role="filum" n="Hebrew Captivity">Ȼ<rs type="ethnic">Iudaicae</rs>
                             captiuitas.</cell>
                         <cell role="spatium"/>
                         <cell role="filum" n="Lydians">Ȼ<rs type="ethnic"><choice>
@@ -8192,7 +8192,7 @@
                         <cell role="filum" n="Macedonians">Ȼ<rs type="ethnic">Macedonum
                             </rs>.</cell>
                         <cell role="spatium"/>
-                        <cell role="filum" n="Judean Captivity">Ȼ<rs type="ethnic"><choice>
+                        <cell role="filum" n="Hebrew Captivity">Ȼ<rs type="ethnic"><choice>
                                     <abbr>Iudeo</abbr>
                                     <expan>Iudeorum</expan>
                                 </choice></rs> captiuitas.</cell>
