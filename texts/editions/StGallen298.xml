@@ -7991,13 +7991,10 @@
                             </choice> et <persName>pocilides</persName> clari <choice>
                                 <abbr>hnt</abbr>
                                 <expan>habentur</expan>
-                            </choice> et <choice>
-                                <orig>zenophnaes</orig>
-                                <reg><choice>
+                            </choice> et <persName>zenophnaes</persName> <note resp="scribe1" place="above"><choice>
                                         <abbr>al</abbr>
                                         <expan>aliter</expan>
-                                    </choice> xenophanes.</reg>
-                            </choice> physicus scriptor <choice>
+                                    </choice> <persName><choice><abbr>xeno</abbr><expan>xenophanes</expan></choice></persName>.</note> physicus scriptor <choice>
                                 <abbr>tragoedia</abbr>
                                 <expan>tragoediarum</expan>
                             </choice></cell>
@@ -9534,13 +9531,11 @@
                                 <expan>unknown</expan>
                             </choice>.</cell>
                         <cell>Ȼ<persName>Bacchilides</persName> et <persName>Diacoras </persName>
-                            <choice>
-                                <orig>athe<del>n</del>us</orig>
-                                <reg><choice>
+                            athe<del>n</del>us
+                            <note resp="scribe1" place="above"><choice>
                                         <abbr>al</abbr>
                                         <expan>aliter</expan>
-                                    </choice>. <placeName>athenis</placeName>.</reg>
-                            </choice> plurimo sermone celebrantur.</cell>
+                                    </choice>. <placeName>athenis</placeName>.</note> plurimo sermone celebrantur.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
@@ -10151,13 +10146,10 @@
                     <row n="84_2">
                         <cell><num>xxii</num>.</cell>
                         <cell>Ȼ<persName>Euripides</persName> tragediarum scriptor clarus habetur.
-                            et <choice>
-                                <orig><persName>pythagoras</persName></orig>
-                                <reg>. <choice>
-                                        <abbr>al</abbr>
+                            et <persName>pythagoras</persName> <note resp="scribe1" place="above">
+                                        .<choice><abbr>al</abbr>
                                         <expan>aliter</expan>
-                                    </choice>. <persName>prothagoras</persName></reg>
-                            </choice> sophista cuius libros decleto publico <rs type="ethnic"
+                                    </choice>. <persName><choice><abbr>pro</abbr><expan>prothagoras</expan></choice></persName></note> sophista cuius libros decleto publico <rs type="ethnic"
                                 >athenienses</rs> combuxerunt.</cell>
                         <cell><num>xviii</num>.</cell>
                         <cell role="spatium"/>
