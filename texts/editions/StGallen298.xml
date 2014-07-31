@@ -13052,30 +13052,33 @@
                         </choice></rs></cell>
                         <cell role="filum" n="Asians">Ȼ<placeName>Asiae</placeName>.</cell>
                         <cell role="filum" n="Syrie">Ȼ<placeName>Syriae</placeName>.</cell>
-                        <cell n="annimundi"><choice>
-                            <abbr>Ani</abbr>
-                            <expan>Anni</expan>
-                        </choice>
-                            <choice><abbr>mudi</abbr><expan>mundi</expan></choice>.</cell>
+                        <cell n="annimundi">Ȼ<choice>
+                                <abbr>Ani</abbr>
+                                <expan>Anni</expan>
+                            </choice>
+                            <choice>
+                                <abbr>mudi</abbr>
+                                <expan>mundi</expan>
+                            </choice>.</cell>
                     </row>
                     <row n="120_3">
-                        <cell>xxvii.</cell>
+                        <cell><num>xxvii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>i.</cell>
-                        <cell>iiii.</cell>
-                        <cell>xv.</cell>
+                        <cell><num>i</num>.</cell>
+                        <cell><num>iiii</num>.</cell>
+                        <cell><num>xv</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="120_4">
-                        <cell>xxviii.</cell>
+                        <cell><num>xxviii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>ii.</cell>
-                        <cell>v.</cell>
-                        <cell>xxvi.</cell>
+                        <cell><num>ii</num>.</cell>
+                        <cell><num>v</num>.</cell>
+                        <cell><num>xxvi</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row role="olympiad" n="121">
-                        <cell role="spatium"/>
+                        <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. <choice><abbr><num>cxxi</num>a</abbr><expan>unknown</expan></choice>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
@@ -13083,47 +13086,79 @@
                         <cell role="spatium"/>
                     </row>
                     <row n="121_1">
-                        <cell>xxviiii.</cell>
-                        <cell><persName>Demetrius</persName> rex <placeName>asiae</placeName> cognomento <persName><choice><orig>polycrates</orig><reg>polycretes</reg></choice></persName> <placeName><choice><abbr>Samaritana</abbr><expan>Samaritanam</expan></choice></placeName> urbem uastat quam <persName>perdicca</persName> ante construxerat.</cell>
-                        <cell>iii.</cell>
-                        <cell>vi.</cell>
-                        <cell>xvii.</cell>
+                        <cell><num>xxviiii</num>.</cell>
+                        <cell>Ȼ<persName>Demetrius</persName> rex <placeName>asiae</placeName>
+                            cognomento <persName><choice>
+                                    <orig>polycrates</orig>
+                                    <reg>polycretes</reg>
+                                </choice></persName>
+                            <placeName><choice>
+                                    <abbr>Samaritana</abbr>
+                                    <expan>Samaritanam</expan>
+                                </choice></placeName> urbem uastat quam
+                                <persName>perdicca</persName> ante construxerat.</cell>
+                        <cell><num>iii</num>.</cell>
+                        <cell><num>vi</num>.</cell>
+                        <cell><num>xvii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="121_2">
-                        <cell>xxx.</cell>
+                        <cell><num>xxx</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>iiii.</cell>
-                        <cell>vii.</cell>
-                        <cell>xviii.</cell>
+                        <cell><num>iiii</num>.</cell>
+                        <cell><num>vii</num>.</cell>
+                        <cell><num>xviii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row role="regnal" n="121_2_r1">
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell>Post quos. <choice><abbr><num>xxvii</num>us</abbr><expan>unknown</expan></choice>. <persName><choice><abbr>Demetri</abbr><expan>Demetrius</expan></choice></persName>. <choice><abbr>an</abbr><expan>annis</expan></choice>. <num>vi</num>.</cell>
+                        <cell>ȻPost quos. <choice>
+                                <abbr><num>xxvii</num>us</abbr>
+                                <expan>unknown</expan>
+                            </choice>. <persName><choice>
+                                    <abbr>Demetri</abbr>
+                                    <expan>Demetrius</expan>
+                                </choice></persName>. <choice>
+                                <abbr>an</abbr>
+                                <expan>annis</expan>
+                            </choice>. <num>vi</num>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="121_3">
-                        <cell>xxxi.</cell>
-                        <cell>Censu <placeName>romae</placeName> agitato inuenta sunt <choice><abbr>ciuiu</abbr><expan>ciuium</expan></choice> <rs type="ethnic"><choice><abbr>romano</abbr><expan>romanorum</expan></choice></rs>. <choice><abbr><num>cclxx</num></abbr><expan><num>cclxx</num> milia</expan></choice>.</cell>
-                        <cell>i.</cell>
-                        <cell>viii.</cell>
-                        <cell>xviiii.</cell>
+                        <cell><num>xxxi</num>.</cell>
+                        <cell>ȻCensu <placeName>romae</placeName> agitato inuenta sunt <choice>
+                                <abbr>ciuiu</abbr>
+                                <expan>ciuium</expan>
+                            </choice>
+                            <rs type="ethnic"><choice>
+                                    <abbr>romano</abbr>
+                                    <expan>romanorum</expan>
+                                </choice></rs>. <choice>
+                                <abbr><num>cclxx</num></abbr>
+                                <expan><num>cclxx</num> milia</expan>
+                            </choice>.</cell>
+                        <cell><num>i</num>.</cell>
+                        <cell><num>viii</num>.</cell>
+                        <cell><num>xviiii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="121_4">
-                        <cell>xxxii.</cell>
-                        <cell>Legati <rs type="ethnic">alexandrini</rs> a <persName><choice><orig>ptolomeo</orig><reg>ptolemeo</reg></choice></persName> primo <placeName>romam</placeName> missi amicitias impetrauerunt.</cell>
-                        <cell>ii.</cell>
-                        <cell>viiii.</cell>
-                        <cell>xx.</cell>
+                        <cell><num>xxxii</num>.</cell>
+                        <cell>ȻLegati <rs type="ethnic">alexandrini</rs> a <persName><choice>
+                                    <orig>ptolomeo</orig>
+                                    <reg>ptolemeo</reg>
+                                </choice></persName> primo <placeName>romam</placeName> missi
+                            amicitias impetrauerunt.</cell>
+                        <cell><num>ii</num>.</cell>
+                        <cell><num>viiii</num>.</cell>
+                        <cell><num>xx</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row role="olympiad" n="122">
-                        <cell role="spatium"/>
+                        <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. <choice><abbr><num>cxxii</num>a</abbr><expan>unknown</expan></choice>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
@@ -13131,95 +13166,164 @@
                         <cell role="spatium"/>
                     </row>
                     <row n="122_1">
-                        <cell>xxxiii.</cell>
-                        <cell><p><persName>Menander</persName> comicus moritur.</p><p><rs type="ethnic">Romani</rs> <rs type="ethnic">gallos</rs> <rs type="ethnic"><choice><abbr>tyrrenosq</abbr><expan>tyrrenosque</expan></choice></rs> superant. et <rs type="ethnic">sabinorum</rs> terra sorte diuiditur.</p></cell>
-                        <cell>iii.</cell>
-                        <cell>x.</cell>
-                        <cell>xxi.</cell>
+                        <cell><num>xxxiii</num>.</cell>
+                        <cell><p>Ȼ<persName>Menander</persName> comicus moritur.</p><p>Ȼ<rs type="ethnic">Romani</rs>
+                                <rs type="ethnic">gallos</rs>
+                                <rs type="ethnic"><choice>
+                                        <abbr>tyrrenosq</abbr>
+                                        <expan>tyrrenosque</expan>
+                                    </choice></rs> superant. et <rs type="ethnic">sabinorum</rs>
+                                terra sorte diuiditur.</p></cell>
+                        <cell><num>iii</num>.</cell>
+                        <cell><num>x</num>.</cell>
+                        <cell><num>xxi</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="122_2">
-                        <cell>xxxiiii.</cell>
+                        <cell><num>xxxiiii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>iiii.</cell>
-                        <cell>xi.</cell>
-                        <cell>xxii.</cell>
+                        <cell><num>iiii</num>.</cell>
+                        <cell><num>xi</num>.</cell>
+                        <cell><num>xxii</num>.</cell>
                         <cell role="annimunid"><choice><abbr><num>iiii</num></abbr><expan><num>iiii</num> milia</expan></choice>.<num>dccccx</num>.</cell>
                     </row>
                     <row n="122_3">
-                        <cell>xxxv.</cell>
-                        <cell><p><persName>Seleucus</persName> in eas urbes quas extruxerat <rs type="ethnic">iudeos</rs> transfert ius eis <choice><abbr>ciuiu</abbr><expan>ciuium</expan></choice> et <choice><abbr>municipale</abbr><expan>municipalem</expan></choice> <choice><abbr>ordine</abbr><expan>ordinem</expan></choice> <choice><abbr>cu</abbr><expan>cum</expan></choice> <rs type="ethnic">grecis</rs> aequali honore concedens.</p><p><rs type="ethnic"><choice><abbr>Iudeo</abbr><expan>Iudeorum</expan></choice></rs> pontifex <persName>Eleazarus</persName> frater <persName>Simonis</persName> suscipit templi <choice><abbr>ministeriu</abbr><expan>ministerium</expan></choice>. filio <persName>Simonis</persName> <persName>Onia</persName> paruo <choice><abbr>admodu</abbr><expan>admodum</expan></choice> derelicto</p><p><persName>Seleucus</persName> in <placeName>sicilia</placeName> capto <persName>demetrio</persName> <placeName>Syriae</placeName> et <placeName>asiae</placeName> pariter <choice><abbr>impauit</abbr><expan>imperauit</expan></choice></p><p><persName>Serapis</persName> ingressus est <placeName>alexandriam</placeName>.</p></cell>
-                        <cell>v.</cell>
-                        <cell>xii.</cell>
-                        <cell>xxiii.</cell>
+                        <cell><num>xxxv</num>.</cell>
+                        <cell><p>Ȼ<persName>Seleucus</persName> in eas urbes quas extruxerat <rs type="ethnic">iudeos</rs>
+                                transfert ius eis <choice>
+                                    <abbr>ciuiu</abbr>
+                                    <expan>ciuium</expan>
+                                </choice> et <choice>
+                                    <abbr>municipale</abbr>
+                                    <expan>municipalem</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>ordine</abbr>
+                                    <expan>ordinem</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>cu</abbr>
+                                    <expan>cum</expan>
+                                </choice>
+                                <rs type="ethnic">grecis</rs> aequali honore concedens.</p><p>Ȼ<rs type="ethnic"><choice>
+                                        <abbr>Iudeo</abbr>
+                                        <expan>Iudeorum</expan>
+                                    </choice></rs> pontifex <persName>Eleazarus</persName> frater
+                                    <persName>Simonis</persName> suscipit templi <choice>
+                                    <abbr>ministeriu</abbr>
+                                    <expan>ministerium</expan>
+                                </choice>. filio <persName>Simonis</persName>
+                                <persName>Onia</persName> paruo <choice>
+                                    <abbr>admodu</abbr>
+                                    <expan>admodum</expan>
+                                </choice> derelicto</p><p>Ȼ<persName>Seleucus</persName> in <placeName>sicilia</placeName> capto
+                                    <persName>demetrio</persName>
+                                <placeName>Syriae</placeName> et <placeName>asiae</placeName>
+                                pariter <choice>
+                                    <abbr>impauit</abbr>
+                                    <expan>imperauit</expan>
+                                </choice></p><p>Ȼ<persName>Serapis</persName> ingressus est <placeName>alexandriam</placeName>.</p></cell>
+                        <cell><num>v</num>.</cell>
+                        <cell><num>xii</num>.</cell>
+                        <cell><num>xxiii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="122_4">
-                        <cell>xxxvi.</cell>
+                        <cell><num>xxxvi</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>vi.</cell>
-                        <cell>xiii.</cell>
-                        <cell>xxiiii.</cell>
+                        <cell><num>vi</num>.</cell>
+                        <cell><num>xiii</num>.</cell>
+                        <cell><num>xxiiii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row role="olympiad" n="123">
+                        <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. <choice><abbr><num>cxxiii</num>a</abbr><expan>unknown</expan></choice>.</cell>
                         <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="regnal"><persName>Pyrrhus</persName>. <choice><abbr><num>xxviii</num>us</abbr><expan>unknown</expan></choice>. <choice><abbr>mensib</abbr><expan>mensibus</expan></choice>. <num>vii</num>.</cell>
+                        <cell role="regnal">Ȼ<persName>Pyrrhus</persName>. <choice>
+                                <abbr><num>xxviii</num>us</abbr>
+                                <expan>unknown</expan>
+                            </choice>. <choice>
+                                <abbr>mensib</abbr>
+                                <expan>mensibus</expan>
+                            </choice>. <num>vii</num>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="123_1">
-                        <cell>xxxvii.</cell>
+                        <cell><num>xxxvii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>i.</cell>
-                        <cell>xiiii.</cell>
-                        <cell>xxv.</cell>
+                        <cell><num>i</num>.</cell>
+                        <cell><num>xiiii</num>.</cell>
+                        <cell><num>xxv</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row role="regnal" n="123_1_r1">
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell>Post <choice><abbr>que</abbr><expan>quem</expan></choice>. <note place="above">.<choice><abbr><num>xxviiii</num>us</abbr><expan>unknown</expan></choice>.</note> <persName>Lysimachus</persName> <choice><abbr>anis</abbr><expan>annis</expan></choice>. <num>v</num>.</cell>
+                        <cell>ȻPost <choice>
+                                <abbr>que</abbr>
+                                <expan>quem</expan>
+                            </choice>. <note place="above">.<choice>
+                                    <abbr><num>xxviiii</num>us</abbr>
+                                    <expan>unknown</expan>
+                                </choice>.</note>
+                            <persName>Lysimachus</persName>
+                            <choice>
+                                <abbr>anis</abbr>
+                                <expan>annis</expan>
+                            </choice>. <num>v</num>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="123_2">
-                        <cell>xxxviii.</cell>
+                        <cell><num>xxxviii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>i.</cell>
-                        <cell>xv.</cell>
-                        <cell>xxvi.</cell>
+                        <cell><num>i</num>.</cell>
+                        <cell><num>xv</num>.</cell>
+                        <cell><num>xxvi</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="123_3">
-                        <cell>xxxviiii.</cell>
-                        <cell>Condita a <rs type="ethnic">romanis</rs> <placeName>Ariminum</placeName> et <placeName>Beneuentum</placeName>.</cell>
-                        <cell>ii.</cell>
-                        <cell>xvi.</cell>
-                        <cell>xxvii.</cell>
+                        <cell><num>xxxviiii</num>.</cell>
+                        <cell>ȻCondita a <rs type="ethnic">romanis</rs>
+                            <placeName>Ariminum</placeName> et
+                            <placeName>Beneuentum</placeName>.</cell>
+                        <cell><num>ii</num>.</cell>
+                        <cell><num>xvi</num>.</cell>
+                        <cell><num>xxvii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="123_4">
-                        <cell>xl.</cell>
+                        <cell><num>xl</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>iii.</cell>
-                        <cell>xvii.</cell>
-                        <cell>xxviii.</cell>
+                        <cell><num>iii</num>.</cell>
+                        <cell><num>xvii</num>.</cell>
+                        <cell><num>xxviii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row role="olympiad" n="124">
+                        <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. <choice><abbr><num>cxxiiii</num>a</abbr><expan>unknown</expan></choice>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell role="regnal"><persName><choice><abbr>Demetri</abbr><expan>Demetrius</expan></choice></persName> semet <choice><abbr>ip</abbr><expan>ipsum</expan></choice> <persName>seleuco</persName> tradidit.</cell>
+                        <cell role="regnal">Ȼ<persName><choice>
+                                    <abbr>Demetri</abbr>
+                                    <expan>Demetrius</expan>
+                                </choice></persName> semet <choice>
+                                <abbr>ip</abbr>
+                                <expan>ipsum</expan>
+                            </choice>
+                            <persName>seleuco</persName> tradidit.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="124_r1">
-                        <cell><placeName>Egypti</placeName>. <choice><abbr><num>ii</num>us</abbr><expan>unknown</expan></choice>. <persName>ptolomeus <rs type="ethnic">phyladelphus</rs></persName> annis. <num>xxxviii</num>.</cell>
+                        <cell>Ȼ<placeName>Egypti</placeName>. <choice>
+                                <abbr><num>ii</num>us</abbr>
+                                <expan>unknown</expan>
+                            </choice>. <persName>ptolomeus <rs type="ethnic"
+                                >phyladelphus</rs></persName> annis. <num>xxxviii</num>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
@@ -13227,104 +13331,214 @@
                         <cell role="spatium"/>
                     </row>
                     <row n="124_1">
-                        <cell>i.</cell>
-                        <cell><p><persName>Sostratus <rs type="ethnic">gnidius</rs></persName> farum in <placeName><choice><abbr>alexandria</abbr><expan>alexandrinam</expan></choice></placeName> <choice><abbr>costruxit</abbr><expan>construxit</expan></choice>.</p><p><persName>Antigonus</persName> <choice><abbr>cognomto</abbr><expan>cognomento</expan></choice> <persName>conatas</persName> <placeName><choice><abbr>lacedemone</abbr><expan>lacedemonem</expan></choice></placeName> optinuit.</p><p><rs type="ethnic">Romani</rs> <placeName>crotonem</placeName> capiunt.</p><p><persName><choice><orig>Ptoloemeus</orig><reg>Ptolemeus</reg></choice> <rs type="ethnic">phyladelphus</rs></persName> <rs type="ethnic">iudeos</rs> qui in <placeName>aegypto</placeName> erant liberos <choice><abbr>ee</abbr><expan>esse</expan></choice> <choice><abbr>pmisit</abbr><expan>permisit</expan></choice>. et uasa <persName>eleazaro</persName> ponitifici <rs type="ethnic"><choice><abbr>hierosolima</abbr><expan>hierosolomiarum</expan></choice></rs> uotiua transmisit. Diuinam scripturam <choice><abbr>i</abbr><expan>in</expan></choice> grecam uocem ex hebrea lingua per. <choice><abbr><num>lxx</num>a</abbr><expan>unknown</expan></choice>. interpretes <choice><abbr>trasferre</abbr><expan>transferre</expan></choice> curauit: quas in <rs type="ethnic"><choice><abbr>alexandria</abbr><expan>alexandrina</expan></choice></rs> biblyotheca habuit: quam sibi ex omni genere litterature comparauerat.</p></cell>                       
-                        <cell>iiii.</cell>
+                        <cell><num>i</num>.</cell>
+                        <cell><p>Ȼ<persName>Sostratus <rs type="ethnic">gnidius</rs></persName> farum in <placeName><choice>
+                                        <abbr>alexandria</abbr>
+                                        <expan>alexandrinam</expan>
+                                    </choice></placeName>
+                                <choice>
+                                    <abbr>costruxit</abbr>
+                                    <expan>construxit</expan>
+                                </choice>.</p><p>Ȼ<persName>Antigonus</persName>
+                                <choice>
+                                    <abbr>cognomto</abbr>
+                                    <expan>cognomento</expan>
+                                </choice>
+                                <persName>conatas</persName>
+                                <placeName><choice>
+                                        <abbr>lacedemone</abbr>
+                                        <expan>lacedemonem</expan>
+                                    </choice></placeName> optinuit.</p><p>Ȼ<rs type="ethnic">Romani</rs>
+                                <placeName>crotonem</placeName> capiunt.</p><p>Ȼ<persName><choice>
+                                        <orig>Ptoloemeus</orig>
+                                        <reg>Ptolemeus</reg>
+                                    </choice>
+                                    <rs type="ethnic">phyladelphus</rs></persName>
+                                <rs type="ethnic">iudeos</rs> qui in <placeName>aegypto</placeName>
+                                erant liberos <choice>
+                                    <abbr>ee</abbr>
+                                    <expan>esse</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>pmisit</abbr>
+                                    <expan>permisit</expan>
+                                </choice>. et uasa <persName>eleazaro</persName> ponitifici <rs
+                                    type="ethnic"><choice>
+                                        <abbr>hierosolima</abbr>
+                                        <expan>hierosolomiarum</expan>
+                                    </choice></rs> uotiua transmisit. Diuinam scripturam <choice>
+                                    <abbr>i</abbr>
+                                    <expan>in</expan>
+                                </choice> grecam uocem ex hebrea lingua per. <choice>
+                                    <abbr><num>lxx</num>a</abbr>
+                                    <expan>unknown</expan>
+                                </choice>. interpretes <choice>
+                                    <abbr>trasferre</abbr>
+                                    <expan>transferre</expan>
+                                </choice> curauit: quas in <rs type="ethnic"><choice>
+                                        <abbr>alexandria</abbr>
+                                        <expan>alexandrina</expan>
+                                    </choice></rs> biblyotheca habuit: quam sibi ex omni genere
+                                litterature comparauerat.</p></cell>                       
+                        <cell><num>iiii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>xxviiii.</cell>
+                        <cell><num>xxviiii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="124_2">
-                        <cell>ii.</cell>
+                        <cell><num>ii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>v.</cell>
+                        <cell><num>v</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>xxx.</cell>
+                        <cell><num>xxx</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row role="regnal" n="124_2_r1">
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell><persName><choice><orig><choice><abbr>Ptolome</abbr><expan>Ptolomeus</expan></choice></orig><reg><choice><abbr>Ptoleme</abbr><expan>Ptolemeus</expan></choice></reg></choice></persName>. <choice><abbr><num>xxx</num>us</abbr><expan>unknown</expan></choice>. <choice><abbr>cogomto</abbr><expan>cognomento</expan></choice> <persName>cemunos</persName>. <choice><abbr>an</abbr><expan>annis</expan></choice>. <num>i</num>.</cell>
+                        <cell>Ȼ<persName><choice>
+                                    <orig><choice>
+                                            <abbr>Ptolome</abbr>
+                                            <expan>Ptolomeus</expan>
+                                        </choice></orig>
+                                    <reg><choice>
+                                            <abbr>Ptoleme</abbr>
+                                            <expan>Ptolemeus</expan>
+                                        </choice></reg>
+                                </choice></persName>. <choice>
+                                <abbr><num>xxx</num>us</abbr>
+                                <expan>unknown</expan>
+                            </choice>. <choice>
+                                <abbr>cogomto</abbr>
+                                <expan>cognomento</expan>
+                            </choice>
+                            <persName>cemunos</persName>. <choice>
+                                <abbr>an</abbr>
+                                <expan>annis</expan>
+                            </choice>. <num>i</num>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="124_3">
-                        <cell>iii.</cell>
+                        <cell><num>iii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>i.</cell>
+                        <cell><num>i</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>xxxi.</cell>
+                        <cell><num>xxxi</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row role="regnal" n="124_3_r1">
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell><p><persName>Meleagrus</persName>. <choice><abbr><num>xxxi</num>us</abbr><expan>unknown</expan></choice>. <choice><abbr>msib</abbr><expan>mensibus</expan></choice>. <num>ii</num>.</p><p><persName>Antipater</persName>. <choice><abbr><num>xxxii</num>us</abbr><expan>unknown</expan></choice>. <choice><abbr>dieb</abbr><expan>diebus</expan></choice>. <num>xlv</num>.</p><p>Post <choice><abbr>que</abbr><expan>quem</expan></choice> <persName>Sostenes</persName>. <choice><abbr><num>xxxiii</num>us</abbr><expan>unknown</expan></choice> <choice><abbr>an</abbr><expan>annis</expan></choice>. <num>ii</num>.</p></cell>
+                        <cell><p>Ȼ<persName>Meleagrus</persName>. <choice>
+                                    <abbr><num>xxxi</num>us</abbr>
+                                    <expan>unknown</expan>
+                                </choice>. <choice>
+                                    <abbr>msib</abbr>
+                                    <expan>mensibus</expan>
+                                </choice>. <num>ii</num>.</p><p>Ȼ<persName>Antipater</persName>. <choice>
+                                    <abbr><num>xxxii</num>us</abbr>
+                                    <expan>unknown</expan>
+                                </choice>. <choice>
+                                    <abbr>dieb</abbr>
+                                    <expan>diebus</expan>
+                                </choice>. <num>xlv</num>.</p><p>ȻPost <choice>
+                                    <abbr>que</abbr>
+                                    <expan>quem</expan>
+                                </choice>
+                                <persName>Sostenes</persName>. <choice>
+                                    <abbr><num>xxxiii</num>us</abbr>
+                                    <expan>unknown</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>an</abbr>
+                                    <expan>annis</expan>
+                                </choice>. <num>ii</num>.</p></cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="124_4">
-                        <cell>iiii.</cell>
+                        <cell><num>iiii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>i.</cell>
+                        <cell><num>i</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>xxxii.</cell>
+                        <cell><num>xxxii</num>.</cell>
                         <cell role="annimundi"><choice><abbr><num>iiii</num></abbr><expan><num>iiii</num> milia</expan></choice>.<num>dccccxx</num>.</cell>
                     </row>
                     <row role="olympiad" n="125">
+                        <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. <choice><abbr><num>cxxv</num>a</abbr><expan>unknown</expan></choice>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell role="spatium"/>
-                        <cell><placeName>Syriae</placeName> et <placeName>asiae</placeName> post <persName><choice><abbr>Seleucu</abbr><expan>Seleucum</expan></choice></persName> regnauit. <choice><abbr><num>ii</num>us</abbr><expan>unknown</expan></choice>. <persName><choice><abbr>Anthioc</abbr><expan>Anthiocus</expan></choice> socer</persName>. <choice><abbr>an</abbr><expan>annis</expan></choice>. <num>xix</num>.</cell>
+                        <cell>Ȼ<placeName>Syriae</placeName> et <placeName>asiae</placeName> post <persName><choice>
+                                    <abbr>Seleucu</abbr>
+                                    <expan>Seleucum</expan>
+                                </choice></persName> regnauit. <choice>
+                                <abbr><num>ii</num>us</abbr>
+                                <expan>unknown</expan>
+                            </choice>. <persName><choice>
+                                    <abbr>Anthioc</abbr>
+                                    <expan>Anthiocus</expan>
+                                </choice> socer</persName>. <choice>
+                                <abbr>an</abbr>
+                                <expan>annis</expan>
+                            </choice>. <num>xix</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="125_1">
-                        <cell>v.</cell>
+                        <cell><num>v</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>ii.</cell>
+                        <cell><num>ii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>i.</cell>
+                        <cell><num>i</num>.</cell>
                         <cell role="spatium"/>
                     </row>
-<row role="regnal" n="125_1_r1">
+                    <row role="regnal" n="125_1_r1">
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell><persName><choice><abbr>Anitgon</abbr><expan>Antigonus</expan></choice></persName>. <choice><abbr><num>xxxiiii</num>us</abbr><expan>unknown</expan></choice>. <persName>gonatas</persName>. <choice><abbr>an</abbr><expan>annis</expan></choice>. <num>xxxvi</num>.</cell>
+                        <cell>Ȼ<persName><choice>
+                                    <abbr>Antigon</abbr>
+                                    <expan>Antigonus</expan>
+                                </choice></persName>. <choice>
+                                <abbr><num>xxxiiii</num>us</abbr>
+                                <expan>unknown</expan>
+                            </choice>. <persName>gonatas</persName>. <choice>
+                                <abbr>an</abbr>
+                                <expan>annis</expan>
+                            </choice>. <num>xxxvi</num>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="125_2">
-                        <cell>vi.</cell>
+                        <cell><num>vi</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>iii.</cell>
+                        <cell><num>iii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>ii.</cell>
+                        <cell><num>ii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     
                     <row n="125_3">
-                        <cell>vii.</cell>
+                        <cell><num>vii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>ii.</cell>
+                        <cell><num>ii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>iii.</cell>
+                        <cell><num>iii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="125_4">
-                        <cell>viii.</cell>
+                        <cell><num>viii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>iii.</cell>
+                        <cell><num>iii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>iiii.</cell>
+                        <cell><num>iiii</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row role="olympiad" n="126">
-                        <cell role="spatium"/>
+                        <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. <choice><abbr><num>cxxvi</num>a</abbr><expan>unknown</expan></choice>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
@@ -13332,19 +13546,47 @@
                         <cell role="spatium"/>
                     </row>
                     <row n="126_1">
-                        <cell>viiii.</cell>
-                        <cell>Vna <choice><abbr>uirginu</abbr><expan>uirgunum</expan></choice> <rs type="ethnic"><choice><abbr>romano</abbr><expan>romanorum</expan></choice></rs> in <choice><abbr>corruptioe</abbr><expan>corruptione</expan></choice> <choice><abbr>dephensa</abbr><expan>deprehensa</expan></choice> <choice><abbr>pcutitur</abbr><expan>percutitur</expan></choice>.</cell>
-                        <cell>iiii.</cell>
+                        <cell><num>viiii</num>.</cell>
+                        <cell>ȻVna <choice>
+                                <abbr>uirginu</abbr>
+                                <expan>uirgunum</expan>
+                            </choice>
+                            <rs type="ethnic"><choice>
+                                    <abbr>romano</abbr>
+                                    <expan>romanorum</expan>
+                                </choice></rs> in <choice>
+                                <abbr>corruptioe</abbr>
+                                <expan>corruptione</expan>
+                            </choice>
+                            <choice>
+                                <abbr>dephensa</abbr>
+                                <expan>deprehensa</expan>
+                            </choice>
+                            <choice>
+                                <abbr>pcutitur</abbr>
+                                <expan>percutitur</expan>
+                            </choice>.</cell>
+                        <cell><num>iiii</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>v.</cell>
+                        <cell><num>v</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                     <row n="126_2">
-                        <cell>x.</cell>
-                        <cell><p><persName>Milo</persName> <rs type="ethnic">romanis</rs> <placeName>tarentum</placeName> tradidit.</p><p><rs type="ethnic">Romani</rs> <placeName><choice><abbr>calabria</abbr><expan>calabriam</expan></choice></placeName> <placeName><choice><abbr>messanamq</abbr><expan>messanamque</expan></choice></placeName> tenuerunt.</p></cell>
-                        <cell>v.</cell>
+                        <cell><num>x</num>.</cell>
+                        <cell><p>Ȼ<persName>Milo</persName>
+                                <rs type="ethnic">romanis</rs>
+                                <placeName>tarentum</placeName> tradidit.</p><p>Ȼ<rs type="ethnic">Romani</rs>
+                                <placeName><choice>
+                                        <abbr>calabria</abbr>
+                                        <expan>calabriam</expan>
+                                    </choice></placeName>
+                                <placeName><choice>
+                                        <abbr>messanamq</abbr>
+                                        <expan>messanamque</expan>
+                                    </choice></placeName> tenuerunt.</p></cell>
+                        <cell><num>v</num>.</cell>
                         <cell role="spatium"/>
-                        <cell>vi.</cell>
+                        <cell><num>vi</num>.</cell>
                         <cell role="spatium"/>
                     </row>
                 </table>
