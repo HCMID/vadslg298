@@ -13934,6 +13934,300 @@
                         <cell><num>i</num>.</cell>
                         <cell role="spatium"/>
                     </row>
+                    <row role="header" n="header_3">
+                        <cell role="filum" n="Alexandrian Egyptians">Ȼ<rs type="ethnic"><choice>
+                            <abbr>Alexandrino</abbr>
+                            <expan>Alexandrinorum</expan>
+                        </choice>.</rs>
+                        </cell>
+                        <cell role="filum" n="Roman Consuls">ȻConsulum.</cell>
+                        <cell role="filum" n="Macedonians">Ȼ<rs type="ethnic"><choice>
+                            <abbr>Maced</abbr>
+                            <expan>Macedonum</expan>
+                        </choice></rs>.</cell>
+                        <cell role="filum" n="Syrie"><placeName>Syriae</placeName>.</cell>
+                        <cell n="annimundi">Ȼ<choice>
+                            <abbr>Ani</abbr>
+                            <expan>Anni</expan>
+                        </choice>
+                            <choice>
+                                <abbr>mudi</abbr>
+                                <expan>mundi</expan>
+                            </choice>.</cell>
+                    </row>
+                    <row n="133_4">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row role="olympiad" n="134">
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row n="134_1">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="134_2">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="134_3">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="134_4">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row role="Olympiad" n="135">
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row n="135_1">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="135_2">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="135_3">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="135_4">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row role="Olympiad" n="136">
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row n="136_1">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="136_2">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="136_3">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row role="regnal" n="136_3_r1">
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row n="136_4">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row role="Olympiad" n="137">
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row n="137_1">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="137_2">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="137_3">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="137_4">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row role="Olympiad" n="138">
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row n="138_1">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="138_2">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row role="regnal" n="138_2_r1">
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row n="138_3">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="138_4">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row role="Olympiad" n="139">
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row n="139_1">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row role="regnal" n="139_1_r1">
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row n="139_2">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="139_3">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n="139_4">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row role="Olympiad" n="140">
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row role="regnal" n="140_r1">
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
+                    <row n="140_1">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row n= "140_2">
+                        <cell></cell>
+                        <cell role="spatium"/>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                    </row>
+                    <row role="regnal" n="140_2_r1">
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
+                    </row>
                 </table>
             </div>
         </body>
