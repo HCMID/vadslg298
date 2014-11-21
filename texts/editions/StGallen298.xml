@@ -13972,128 +13972,128 @@
                     <row n="134_1">
                         <cell>iii.</cell>
                         <cell>Censu <placeName>romae</placeName> agitato inuenta sunt hominum. <choice><abbr><num>cclx</num></abbr><expan><num>cclx</num> milia</expan></choice>.</cell>
-                        <cell role="regnal"><rs type="ethnic"><choice><abbr>Maced</abbr><expan>Macedonum</expan></choice></rs>. <choice><abbr><num>xxxv</num>us</abbr><expan>unknown</expan></choice>. <persName><choice><abbr>demetri</abbr><expan>demetrius</expan></choice></persName>. <choice><abbr>an</abbr><expan>annis</expan></choice>. x.</cell>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell role="regnal"><rs type="ethnic"><choice><abbr>Maced</abbr><expan>Macedonum</expan></choice></rs>. <choice><abbr><num>xxxv</num>us</abbr><expan>unknown</expan></choice>. <persName><choice><abbr>demetri</abbr><expan>demetrius</expan></choice></persName>. <choice><abbr>an</abbr><expan>annis</expan></choice>. <num>x</num>.</cell>
+                        <cell role="spatium"/>
+                        <cell role="spatium"/>
                     </row>
                     <row n="134_2">
-                        <cell></cell>
+                        <cell>iiii.</cell>
                         <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>i:</cell>
+                        <cell>iiii.</cell>
+                        <cell role="spatium"/>
                     </row>
                     <row n="134_3">
-                        <cell></cell>
+                        <cell>v.</cell>
+                        <cell><placeName>Romae</placeName> templum uestae incensum.</cell>
+                        <cell>ii.</cell>
+                        <cell>v.</cell>
                         <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
                     </row>
                     <row n="134_4">
-                        <cell></cell>
-                        <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>vi.</cell>
+                        <cell><persName>Quintus ennius</persName> poeta <placeName>tarenti</placeName> nascitur qui a <persName>catone</persName> quaestore <placeName><choice><abbr>roma</abbr><expan>romam</expan></choice></placeName> translatus habitauit in <placeName>monte auentino</placeName> parco admodum sumptu contentus et unius ancillae ministerio.</cell>
+                        <cell>iii.</cell>
+                        <cell>vi.</cell>
+                        <cell role="annimundi"><choice><abbr>iiii</abbr><expan><num>iiii</num> milia</expan></choice>.<num>dcccclx</num>.</cell>
                     </row>
                     <row role="Olympiad" n="135">
-                        <cell role="spatium"/>
+                        <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. <choice><abbr><num>cxxxv</num>a</abbr><expan>unknown</expan></choice>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="135_1">
-                        <cell></cell>
+                        <cell>vii.</cell>
                         <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>iiii.</cell>
+                        <cell>vii.</cell>
+                        <cell role="spatium"/>
                     </row>
                     <row n="135_2">
-                        <cell></cell>
+                        <cell>viii.</cell>
                         <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>v.</cell>
+                        <cell>viii.</cell>
+                        <cell role="spatium"/>
                     </row>
                     <row n="135_3">
-                        <cell></cell>
+                        <cell>viiii.</cell>
                         <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>vi.</cell>
+                        <cell>viiii.</cell>
+                        <cell role="spatium"/>
                     </row>
                     <row n="135_4">
-                        <cell></cell>
+                        <cell>x.</cell>
                         <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>vii.</cell>
+                        <cell>x.</cell>
+                        <cell role="spatium"/>
                     </row>
                     <row role="Olympiad" n="136">
-                        <cell role="spatium"/>
+                        <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. <choice><abbr><num>cxxxvi</num>a</abbr><expan>unknown</expan></choice>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="136_1">
-                        <cell></cell>
+                        <cell>xi.</cell>
+                        <cell>Uirgo uestalis <placeName>romae</placeName> a seruo corrupta <choice><abbr>ppria</abbr><expan>propria</expan></choice> se manu interficit.</cell>
+                        <cell>viii.</cell>
+                        <cell>xi.</cell>
                         <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
                     </row>
                     <row n="136_2">
-                        <cell></cell>
+                        <cell>xii.</cell>
                         <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>viiii.</cell>
+                        <cell>xii.</cell>
+                        <cell role="spatium"/>
                     </row>
                     <row n="136_3">
-                        <cell></cell>
+                        <cell>xiii.</cell>
                         <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>x.</cell>
+                        <cell>xiii.</cell>
+                        <cell role="spatium"/>
                     </row>
                     <row role="regnal" n="136_3_r1">
                         <cell role="spatium"/>
                         <cell role="spatium"/>
-                        <cell role="spatium"/>
+                        <cell role="regnal"><persName><choice><abbr>Anthigon</abbr><expan>Anthigonus</expan></choice></persName>. <choice><abbr><num>xxxvi</num>us</abbr><expan>unknown</expan></choice>. annis. <num>xv</num>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="136_4">
-                        <cell></cell>
+                        <cell>xiiii.</cell>
                         <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>i.</cell>
+                        <cell>xiiii.</cell>
+                        <cell role="spatium"/>
                     </row>
                     <row role="Olympiad" n="137">
-                        <cell role="spatium"/>
+                        <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. <choice><abbr><num>cxxxvii</num>us</abbr><expan>unknown</expan></choice>.</cell>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                         <cell role="spatium"/>
                     </row>
                     <row n="137_1">
-                        <cell></cell>
+                        <cell>xv.</cell>
+                        <cell><rs type="ethnic"><choice><abbr>Iudeo</abbr><expan>Iudeorum</expan></choice></rs> pontifex maximus <persName>Symon</persName> <persName>onie</persName> filius clarus <choice><abbr>habet</abbr><expan>habetur</expan></choice>: sub quo <persName>yesus</persName> filius <persName>Syrac</persName> <title>sapientiae librum</title> <choice><abbr>copenens</abbr><expan>componens</expan></choice> quem uocant <persName>panerethon</persName> etiam <persName>Symeonis</persName> in eo fecit mentionem.</cell>
+                        <cell>ii.</cell>
+                        <cell>xv.</cell>
                         <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
                     </row>
                     <row n="137_2">
-                        <cell></cell>
+                        <cell>xvi.</cell>
                         <cell role="spatium"/>
-                        <cell></cell>
-                        <cell></cell>
-                        <cell></cell>
+                        <cell>iii.</cell>
+                        <cell>xvi.</cell>
+                        <cell role="annimundi"><choice><abbr><num>iiii</num></abbr><expan><num>iiii</num> milia</expan></choice>.<num>dcccclxx</num>.</cell>
                     </row>
                     <row n="137_3">
                         <cell></cell>
