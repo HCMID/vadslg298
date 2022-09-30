@@ -5,7 +5,11 @@ Archival repository for work editing Codex St. Gallen, Vadianische Sammlung, 298
 
 ## URNs
 
+Text: `urn:cts:latinLit:stoa0162.stoa005.codsang298:`
+
 Example of image: `urn:cite2:citeecod:codsang298imgs.v1:codvad298_43v_44r`
+
+Page: `urn:cite2:hcmid:codsang298.v1:`
 
 ## License
 
