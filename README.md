@@ -3,6 +3,9 @@
 
 Archival repository for work editing Codex St. Gallen, Vadianische Sammlung, 298, Jerome's *Chronicles*.
 
+## URNs
+
+Example of image: `urn:cite2:citeecod:codsang298imgs.v1:codvad298_43v_44r`
 
 ## License
 
